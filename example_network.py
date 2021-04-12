@@ -1,7 +1,7 @@
 from m5stack import *
 from m5ui import *
 from uiflow import *
-from microWebSrv import MicroWebSrv
+from MicroWebSrv.microWebSrv import MicroWebSrv
 import wifiCfg
 import ubinascii
 rgb.setColorAll(0xff0000)
